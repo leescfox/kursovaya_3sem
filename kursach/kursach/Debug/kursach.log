@@ -1,0 +1,35 @@
+﻿  kursach.cpp
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(62,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(62,47): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(85,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(90,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(54,23): warning C4101: i: неиспользованная локальная переменная
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(107,54): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(111,96): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(126,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(128,18): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(150,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(173,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(186,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(191,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(182,12): warning C4101: k: неиспользованная локальная переменная
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(229,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(232,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(241,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(244,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(246,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(260,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(263,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(267,23): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(279,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(282,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(285,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(303,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(307,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(394,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(400,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(415,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(440,17): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(452,16): warning C4018: <: несоответствие типов со знаком и без знака
+B:\Desktop\3 sem\АИСД\kursach\kursach\kursach.cpp(346): warning C4715: ourcase: значение возвращается не при всех путях выполнения
+  kursach.vcxproj -> B:\Desktop\3 sem\АИСД\kursach\Debug\kursach.exe
